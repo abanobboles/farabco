@@ -218,7 +218,7 @@ public class Farabco {
         francoKey.put("8" , 'غ');
 	francoKey.put("f" , 'ف');
 	francoKey.put("F" , 'ف');
-	francoKey.put("2" , 'أ');
+	francoKey.put("2" , 'أ'); // Tested by 'Botros Sameh & Hosam Sabry'
 	
 	francoKey.put("k" , 'ك');
 	francoKey.put("K" , 'ك');
